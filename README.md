@@ -27,7 +27,7 @@ scenarios and
 **(2) how well associated performance metrics accurately predict how much knowledge individual explanations contribute to a human end-user trying to understand the inner-workings of the system**.
 
 To fill this gap, we conducted
-psychophysics experiments at scale ($n = 1,150$) to evaluate the usefulness of attribution methods in three real-world scenarios:
+psychophysics experiments at scale ($n = 1, 150$) to evaluate the usefulness of attribution methods in three real-world scenarios:
 _identifying bias in an AI system_,
 _characterizing the visual strategy it uses for tasks that are too difficult_ for an untrained non-expert human observer as well as _understanding its failure cases_.
 
@@ -49,7 +49,7 @@ The utility score are computed from the relative improvement of users in accurac
 
 <img src="docs/assets/dataset.jpg" width="100%" align="center">
 
-We evaluate the usefulness of representative attribution methods on 3 important use cases for eXplainable AI in vision:
+We focus on 3 important use cases for eXplainable AI in vision on which we evaluate the usefulness of representative attribution methods, namely:
 
   - (1) Bias detection
   - (2) Identify novel strategies discovered by an expert AI system
