@@ -1,0 +1,1 @@
+In order to evaluate your own method on the benchmark, we will made available two notebooks showing how to do it from tensorflow or pytorch (coming soon).
