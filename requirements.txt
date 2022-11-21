@@ -1,0 +1,8 @@
+tensorflow
+pytorch
+xplique
+numpy
+scikit-image
+matplotlib
+scipy
+opencv-python
